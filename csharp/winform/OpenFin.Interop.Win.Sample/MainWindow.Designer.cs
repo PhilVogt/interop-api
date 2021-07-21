@@ -181,7 +181,7 @@ namespace OpenFin.Interop.Win.Sample
             // 
             this.interopBrokerInput.Location = new System.Drawing.Point(233, 167);
             this.interopBrokerInput.Name = "interopBrokerInput";
-            this.interopBrokerInput.PlaceholderText = "openfin-browser";
+            //this.interopBrokerInput.PlaceholderText = "openfin-browser";
             this.interopBrokerInput.Size = new System.Drawing.Size(201, 31);
             this.interopBrokerInput.TabIndex = 12;
             this.interopBrokerInput.TextChanged += new System.EventHandler(this.interopBrokerInput_TextChanged);
