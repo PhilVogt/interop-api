@@ -15,7 +15,7 @@
         "autoShow": false,
         "providerUrl": "http://localhost:3000/provider-window-main.html",
         "defaultWindowOptions": {
-            "url": "http://localhost:3000/",
+            "url": "http://localhost:3000/index.html",
             "contextMenu": true,
             "backgroundColor": "#000000",
             "showBackgroundImages": true

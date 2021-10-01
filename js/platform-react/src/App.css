@@ -3,3 +3,6 @@
   background-color: #282c34;
 }
 
+#body-container {
+  display: block;
+}
